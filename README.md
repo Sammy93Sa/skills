@@ -4,7 +4,7 @@ The full catalog of Firecrawl skills for AI coding agents, following the [Agent 
 
 > **This repository is a distribution catalog.** Every directory under `skills/` is a CI-synced mirror. Install skills from here; contribute skill changes at the source repository. Repository-level metadata is maintained here.
 
-## Install
+## Install 
 
 ```bash
 npx skills add firecrawl/skills
